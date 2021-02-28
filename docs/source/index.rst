@@ -8,7 +8,7 @@ Welcome to SDL Trados Studio's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: SDL Trados Studio 2021
+   :caption: Introduction to SDL Trados Studio 2021
    
    introduction
    cat_overview
@@ -16,4 +16,10 @@ Welcome to SDL Trados Studio's documentation!
    differences
    tms
    tbm
+   autosuggest
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Setting Up SDL Trados Studio 2021
    
+   versions
